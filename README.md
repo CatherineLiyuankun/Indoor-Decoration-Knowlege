@@ -9,8 +9,9 @@ notebook: 装修
 - [整体要求](#整体要求)
 - [1 厨房](#1-厨房)
 - [2 核心区 - 静 ：书房 + 餐厅](#2-核心区---静-书房--餐厅)
-- [2.1 书房 （北阳台）](#书房-北阳台)
+- [2.1 书房 ](#书房)
 - [2.2 餐厅](#餐厅)
+- [2.3 北阳台](#北阳台)
 - [3 门厅 （鞋柜）](#3-门厅-鞋柜)
 - [4 核心区 - 动： 客厅](#4-核心区---动-客厅)
 - [5 阳台](#5-阳台)
@@ -23,33 +24,35 @@ notebook: 装修
 <!-- /TOC -->
 
 # 0 整体要求
-- 简约、实用、舒适，不要求特定风格（类 日式+北欧）, 有日式的禅意
+- 简约、实用、舒适，不要求特定风格（类 日式+北欧）, 有日式的禅意、北欧的简洁+绿植
+- 有一架古筝需要安放
 - 主色调 白色 灰色 木色 等亮色
 - 要求硬装尽量简单 质量好
 - 收纳要多
 - 插座 要足够
-- 灯的开关 需要双控开关：卧室、客厅（沙发上方有射灯），餐桌有灯，厨房操作台灯
+- 灯的开关 需要双控开关：卧室、客厅（沙发上方有射灯），餐桌有灯，厨房操作台灯，衣柜内部有灯带
 - 准备养一只金毛，一只猫，猫窝狗窝优先放大阳台
 - 供暖：水地暖
-- 空调
+- 空调：一拖五中央空调
 - 地板 木纹瓷砖 、浅色瓷砖 或者 多层、三层复合地板
-- 不安装防盗窗，可能安装**金刚网**
-- 普通的腻子，可选用用**耐水腻子**
-
+- 居住人： 主卧（年轻夫妇），次卧（母亲），儿童房（2-3年后可能要小孩）
+- 不喜欢皮制品，喜欢布艺的
 
 
 ## 可选
-- 门 [丁盯安全门锁](https://item.jd.com/10095353020.html)
+- 门 智能门 [丁盯安全门锁](https://item.jd.com/10095353020.html)
 - 挂自行车
+- 普通的腻子，可选用**耐水腻子**
+- 不安装防盗窗，可能安装**金刚网**
+
 
 # 1 厨房
 
 ## 必要
-
+0. 开放式厨房 或 半开放厨房（厨房门为可折叠推拉门，可以完全折叠打开）
 1. 考虑 *洗碗机*(上下出水口) 微波炉 烤箱 （高柜） 位置
-2. 厨房门为可折叠推拉门，可以完全折叠打开
-3. 顶柜
-
+2. 顶柜
+3. 厨房操作台灯或灯带
 
 
 ## 可选
@@ -65,19 +68,21 @@ notebook: 装修
 
 # 2 核心区 - 静 ：书房 + 餐厅
 
-## 2.1 书房 （北阳台）
+## 2.1 书房 
 
 ### 必要
 
 1. 书房门墙开大，与餐厅相通。
 
 2. 书房有大书架 和 储物柜
+![大书架](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E5%BC%80%E6%94%BE%E5%8E%A8%E6%88%BF%2B%E6%95%B4%E9%9D%A2%E4%B9%A6%E6%9E%B6%2B%E9%A4%90%E6%9F%9C.png)
+![整墙书架](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E4%B9%A6%E6%9E%B6.jpg)
 
-3. 书房书桌 （2-3人桌） 上有放电脑和多个屏幕的需求
+3. 书房书桌 （2-3人桌） 上有放电脑和多个屏幕的需求， 书桌比上图的需求要大
 
 ### 可选
 
-- 书房门有中式半透明白色帛布帘子,可收起
+- 书房门有中式半透明白色帛布帘子,可收起。或者有折叠推拉门，可以完全折叠打开
 
 ![帘子](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489838089784&di=9ef8cd54899303bff97af60d96dd1527&imgtype=0&src=http%3A%2F%2Feasyread.ph.126.net%2FBqFYBqveyx8UlShyhb2qsA%3D%3D%2F7916667338432321619.jpg)
 
@@ -85,7 +90,7 @@ notebook: 装修
 
 ## 2.2 餐厅
 1. 餐桌， 吃完饭后也可以当书桌
-复制这条信息，打开👉手机淘宝👈即可看到【吱音 森叠长桌6人实木折叠桌小户型黑胡桃木色橡木餐桌设计家具】￥RMHkNwyEmO￥http://c.b1wt.com/h.eVgQKD?cv=RMHkNwyEmO&sm=8d3bad
+List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森叠长桌6人实木折叠桌小户型黑胡桃木色橡木餐桌设计家具】￥RMHkNwyEmO￥http://c.b1wt.com/h.eVgQKD?cv=RMHkNwyEmO&sm=8d3bad
 
 
 ### 可选
@@ -97,60 +102,81 @@ notebook: 装修
 - 餐边柜
 开放厨房 + 整面餐柜
 
+## 2.3 北阳台
+
+
+没想好能干啥，绿城应该不让封阳台
+理想型可以有个小飘窗喝茶下棋：
+
+![理想型](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E4%B9%A6%E6%88%BF%E5%B0%8F%E9%98%B3%E5%8F%B0.jpg)
 
 ----
 # 3 门厅 （鞋柜）
 
 ## 必要
 
-1. 鞋柜 最够的空间
-2. 挂衣服的 ![挂杆](http://mmbiz.qpic.cn/mmbiz_jpg/Dn17O7VAvcYtMBF3lInkJj4r43QJhicSOxicHsaJB0EPuYrtO83YkYZfk13USicFQIzA86gCUFcFbB50IiaQwfy0Lg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+1. 鞋柜 足够的空间
+2. 能随手挂衣服，放包的区域。可能是玄关柜的一部分。可以不长下图这样的，但也是挂放的类型。
+![挂杆](http://mmbiz.qpic.cn/mmbiz_jpg/Dn17O7VAvcYtMBF3lInkJj4r43QJhicSOxicHsaJB0EPuYrtO83YkYZfk13USicFQIzA86gCUFcFbB50IiaQwfy0Lg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 3. 挂钥匙的小挂钩
 4. 门厅的小灯
 
 
-
 ## 可选
+1. 可折叠换鞋凳 
 
 ----
 
 # 4 核心区 - 动： 客厅
 
 ## 必要
-
-1. 古筝 （挂在墙上）
-2. 沙发 （拐角可躺） 上面是布艺，下座是木制 （要防止猫狗的抓咬）
-3. 不要大的长条茶几（可用 小的**便携移动茶几** 2-3个 或者 **可移动餐车** 代替）
+1. 沙发 （拐角可躺 或 2-3人沙发+单人沙发） 上面是布艺，下座是木制 （要防止猫狗的抓咬）（下面是抽屉能收纳就更好）
+2. 不要大的长条茶几（可用 小的**便携移动茶几** 1-2个 或者 **可移动餐车** 代替），茶几是小巧，随时可移动的。
+3. 电视 和 投影纠结中
 
 ![中式客厅](https://qhyxpicoss.kujiale.com/r/2016/11/16/DVD5H5BREJI4OK4PLL3WKXI8_4000x3000.jpg@!720x660)
 
 ## 可选
-1. 儿童游戏角
-2. 运动角 （能放下瑜伽垫等简单运动工具）
+1. 儿童游戏角（现在不需要，2-3年后可能要小孩）
+2. 运动角 （能放下瑜伽垫等简单运动工具），也可先放在阳台区域或者儿童房
+3. 古筝 （挂在墙上）
+
 
 ----
 
-# 5 阳台
+# 5 阳台（主卧阳台+客厅阳台）
+
+## 5.1 主卧阳台
+
 ## 必要
-
-1. 升降晾衣架
-2. 右边要有洗衣柜，放一个滚筒洗衣机和一个水池，上有吊柜
-3. 阳台要养花，考虑花架
-
+1. 阳台要养花，考虑花园式阳台。
+2. 有个书架或置物架
 
 
 ## 可选
 1. 主卧阳台放一个小桌子，可下棋，看书，可配蒲团或懒人沙发
-烘干机
+2. 或者可放瑜伽垫
+3. 养竹子
+4. 狗窝+猫爬架
+5. 主卧阳台与客厅阳台有屏风 之类的 软隔断
 
+## 5.2 客厅阳台
+### 必要
+
+1. 升降晾衣架
+2. 右边要有洗衣柜，放一个滚筒洗衣机和一个水池，上有吊柜
+![洗衣柜](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E9%98%B3%E5%8F%B0%E6%B4%97%E8%A1%A3%E5%8C%BA.jpg)
+
+## 可选
+1. 预留烘干机位置
 ----
 
 # 6 主卧
 ## 必要
 
-1. 护肤化妆品要有地方放，洗手台上面有柜子放化妆品，下面有柜子放吹风机。洗手台做梳妆台
+1. 护肤化妆品要有地方放，主卧厕所洗手台上面有柜子放化妆品，下面有柜子放吹风机。洗手台可做梳妆台，如果主卧里有个梳妆台，这个梳妆台最好能兼做书桌。
 2. 洗澡位置的墙角要有一个放洗浴用品的（悬空）架子
-3. 床下面能储物，床头有插座
+3. 木质床，床下面能储物（抽屉），床头有插座
 4. 主卧要有大衣柜，要尽量大 （穿银镜可以在衣柜的一侧）
 
 ![床头顶柜](http://mmbiz.qpic.cn/mmbiz_jpg/Dn17O7VAvcaRnOvZld7nI85SdZgnlR3oQ5fWtLLyaUvpTU7Kr1S2GTLf4NtRIEWicibS3EMVthL7BGWYicejbfUCA/640)
@@ -162,28 +188,31 @@ notebook: 装修
 ![中式卧室](https://qhyxpicoss.kujiale.com/r/2016/12/16/DVD2XII4EJJ4ESV2HL3WKXI8_1600x1200.jpg@!720x660)
 
 ## 可选
-1. 主卧衣帽间改造（待完善）：把墙往里移，让门厅宽敞一点，考虑将剩下的部分做成嵌入式衣柜
-2. 可能有床头放书的需求，床头有台灯
+1. 主卧衣帽间改造（待完善）：把墙往里移，让门厅宽敞一点，考虑将剩下的部分做成嵌入式衣柜？
+2. 可能有床头放书和杂物的需求，床头要有台灯
 3. 主卧厕所门后要有挂钩
 
 
 ----
 
-# 7 次卧（南）
+# 7 次卧（南）+ 走入式衣柜 + 储物间
 ## 必要
 
-1.
-
-
+1.飘窗
 
 ## 可选
 - 榻榻米
-![榻榻米](https://qhyxpicoss.kujiale.com/r/2016/05/17/DVEMFOIOEJLMOK5JVL3WK7A8_3200x2400.jpg@!720x660)
+- 次卧的走入式衣柜 + 储物间 合并为储物间，留一点位置做次卧衣柜？
 
-![榻榻米](http://mmbiz.qpic.cn/mmbiz/Dn17O7VAvcZo8dWliaJqrz8HxI00nAn8Gg5DXT614Tbx2shXGj94OnfUpiafNUoCHy8Xic6ejib5FeYO1iax19S3YTw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+
+----
+# 8 储物间
+## 必要
+- 被子 鞋子 包 户外用品
+
 ----
 
-# 8 儿童房（北）
+# 9 儿童房（北）
 
 ## 必要
 
@@ -191,22 +220,23 @@ notebook: 装修
 
 
 ## 可选
-- 先用床垫 或 可收纳的床
+- 
 
 ----
 
-# 9 厕所
+# 10 厕所
 ## 必要
-- 厕所 干湿分离
--
+- 公用厕所 干湿分离， 洗手台在外面
+- 
 - 镜子旁边要有置物柜
 - 放卫生纸 大一点的盒子，有盖子
 - 马桶旁边要有插座
 - 马桶上方有储物空间
 - 水池子上的水龙头 是高管的
+
 ## 可选
 - 厕所门后要有挂钩
-- 长水台
+- 主卧厕所有双台盆，或长条台盆
 
 ![水台](https://qhyxpicoss.kujiale.com/r/2016/09/24/DVEB4GF6EJLMOK6R4H3WKTI8_3200x2400.jpg@!720x660)
 
@@ -216,9 +246,47 @@ notebook: 装修
 ![镜子](http://mmbiz.qpic.cn/mmbiz_jpg/Dn17O7VAvcYtMBF3lInkJj4r43QJhicSOHWe0hnImVyHicbwvQfTibbU71TOvE4ib0icGSQrt9e7jbRWQqc6Yibn8ypA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 ----
 
-# 10 储物间
-## 必要
--
+
+# 11 喜欢的七七八八（可选）
+
+- 装饰镜子：
+
+![装饰镜](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E8%A3%85%E9%A5%B0%E9%95%9C.jpg)
+
+【我剁手都要买的宝贝（壁挂原木镜子 挂墙镜 日式浴室镜 玄光圆镜 出口实木镜  装饰镜），快来和我一起瓜分红I包】，复制这条信息￥emSm0J8hKdt￥后打开👉手淘👈[来自超级会员的分享]
+
+![日式镜](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%97%A5%E5%BC%8F%E9%95%9C.jpeg)
 
 
+- 沙发：
+【我剁手都要买的宝贝（多功能简易贵妃沙发床小户型客厅三人经济型布艺沙发组合转角拆洗），快来和我一起瓜分红I包】，复制这条信息￥jW0E0J8Olx0￥后打开👉手淘👈[来自超级会员的分享]
 
+![白色沙发](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E7%99%BD%E8%89%B2%E6%B2%99%E5%8F%91.jpeg)
+
+
+【我剁手都要买的宝贝（春沐家|现代简约北欧小户型沙发床  麻布沙发 胡桃木白橡布艺拆洗），快来和我一起瓜分红I包】，复制这条信息￥jd230J88Mgb￥后打开👉手淘👈[来自超级会员的分享]
+
+![春沐家|现代简约北欧小户型沙发床1](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%98%A5%E6%B2%90%E5%AE%B6%7C%E7%8E%B0%E4%BB%A3%E7%AE%80%E7%BA%A6%E5%8C%97%E6%AC%A7%E5%B0%8F%E6%88%B7%E5%9E%8B%E6%B2%99%E5%8F%91%E5%BA%8A1.jpeg)
+![春沐家|现代简约北欧小户型沙发床2](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%98%A5%E6%B2%90%E5%AE%B6%7C%E7%8E%B0%E4%BB%A3%E7%AE%80%E7%BA%A6%E5%8C%97%E6%AC%A7%E5%B0%8F%E6%88%B7%E5%9E%8B%E6%B2%99%E5%8F%91%E5%BA%8A2.jpeg)
+
+
+- 书架： 
+【我剁手都要买的宝贝（LOFT北欧实木书架书柜定制美式复古铁艺置物架落地工业风创意书架），快来和我一起瓜分红I包】，复制这条信息￥gtnc0J8R4fK￥后打开👉手淘👈[来自超级会员的分享]
+
+![梯子书架](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%A2%AF%E5%AD%90%E4%B9%A6%E6%9E%B6.jpeg
+)
+
+
+- 床头柜
+【我剁手都要买的宝贝（屁屁妈ins爆款北欧风简约儿童房床头柜 卧室边角圆形多功能收纳柜），快来和我一起瓜分红I包】，复制这条信息￥eXrQ0J8h2Za￥后打开👉手淘👈[来自超级会员的分享]
+
+
+- 床
+http://m.tb.cn/h.WEAtJl1 
+
+![艾伦储物床高箱床](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E8%89%BE%E4%BC%A6%E5%82%A8%E7%89%A9%E5%BA%8A%E9%AB%98%E7%AE%B1%E5%BA%8A.jpeg)
+
+【朝斯堡日式实木床1.8米双人床主卧1.5m北欧实木床现代简约储物床】，复制这条信息￥ieNY0J8QxYs￥后打开👉手淘👈[来自超级会员的分享]
+
+
+![朝斯堡日式实木床](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%9C%9D%E6%96%AF%E5%A0%A1%E6%97%A5%E5%BC%8F%E5%AE%9E%E6%9C%A8%E5%BA%8A.jpeg)
