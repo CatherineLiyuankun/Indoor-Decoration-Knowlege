@@ -6,40 +6,75 @@ notebook: 装修
 
 <!-- TOC -->
 
-- [整体要求](#整体要求)
+- [0 整体要求](#0-整体要求)
 - [1 厨房](#1-厨房)
+    - [必要](#必要)
+    - [可选](#可选)
 - [2 核心区 - 静 ：书房 + 餐厅](#2-核心区---静-书房--餐厅)
-- [2.1 书房 ](#书房)
-- [2.2 餐厅](#餐厅)
-- [2.3 北阳台](#北阳台)
+    - [2.1 书房](#21-书房)
+        - [必要](#必要-1)
+        - [可选](#可选-1)
+    - [2.2 餐厅](#22-餐厅)
+        - [可选](#可选-2)
+    - [2.3 北阳台](#23-北阳台)
 - [3 门厅 （鞋柜）](#3-门厅-鞋柜)
+    - [必要](#必要-2)
+    - [可选](#可选-3)
 - [4 核心区 - 动： 客厅](#4-核心区---动-客厅)
-- [5 阳台](#5-阳台)
+    - [必要](#必要-3)
+    - [可选](#可选-4)
+- [5 阳台（主卧阳台+客厅阳台）](#5-阳台主卧阳台客厅阳台)
+    - [5.1 主卧阳台](#51-主卧阳台)
+        - [必要](#必要-4)
+        - [可选](#可选-5)
+    - [5.2 客厅阳台](#52-客厅阳台)
+        - [必要](#必要-5)
+        - [可选](#可选-6)
 - [6 主卧](#6-主卧)
-- [7 次卧（南）](#7-次卧南)
-- [8 儿童房（北）](#8-儿童房北)
-- [9 厕所](#9-厕所)
-- [10 储物间](#10-储物间)
+    - [必要](#必要-6)
+    - [可选](#可选-7)
+- [7 次卧（南）+ 走入式衣柜 + 储物间](#7-次卧南-走入式衣柜--储物间)
+    - [必要](#必要-7)
+    - [可选](#可选-8)
+- [8 储物间](#8-储物间)
+    - [必要](#必要-8)
+- [9 儿童房（北）](#9-儿童房北)
+    - [必要](#必要-9)
+    - [可选](#可选-9)
+- [10 厕所](#10-厕所)
+    - [必要](#必要-10)
+    - [可选](#可选-10)
+- [11 扒来的好点子（可选）](#11-扒来的好点子可选)
+    - [衣柜解决方案](#衣柜解决方案)
+    - [厨房改造](#厨房改造)
+    - [装修预算](#装修预算)
+    - [收纳](#收纳)
+- [12 喜欢的七七八八（可选）](#12-喜欢的七七八八可选)
+    - [装饰镜子：](#装饰镜子)
+    - [沙发：](#沙发)
+    - [书架：](#书架)
+    - [床头柜](#床头柜)
+    - [床](#床)
 
 <!-- /TOC -->
 
 # 0 整体要求
 - 简约、实用、舒适，不要求特定风格（类 日式+北欧）, 有日式的禅意、北欧的简洁+绿植
 - 有一架古筝需要安放
-- 主色调 白色 灰色 木色 等亮色
+- 主色调 白色 灰色 木色 等亮色，可有少量单面墙为深色（黑板墙）
 - 要求硬装尽量简单 质量好
 - 收纳要多
-- 插座 要足够
+- 插座 要足够和合理
 - 灯的开关 需要双控开关：卧室、客厅（沙发上方有射灯），餐桌有灯，厨房操作台灯，衣柜内部有灯带
 - 准备养一只金毛，一只猫，猫窝狗窝优先放大阳台
 - 供暖：水地暖
 - 空调：一拖五中央空调
 - 地板 木纹瓷砖 、浅色瓷砖 或者 多层、三层复合地板
 - 居住人： 主卧（年轻夫妇），次卧（母亲），儿童房（2-3年后可能要小孩）
-- 不喜欢皮制品，喜欢布艺的
+- 不喜欢皮制品，喜欢布艺的, 家具要求不高，但求经济实用，可多选用宜家
 
 
-## 可选
+-- 可选
 - 门 智能门 [丁盯安全门锁](https://item.jd.com/10095353020.html)
 - 挂自行车
 - 普通的腻子，可选用**耐水腻子**
@@ -148,12 +183,12 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 
 ## 5.1 主卧阳台
 
-## 必要
+### 必要
 1. 阳台要养花，考虑花园式阳台。
 2. 有个书架或置物架
 
 
-## 可选
+### 可选
 1. 主卧阳台放一个小桌子，可下棋，看书，可配蒲团或懒人沙发
 2. 或者可放瑜伽垫
 3. 养竹子
@@ -167,7 +202,7 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 2. 右边要有洗衣柜，放一个滚筒洗衣机和一个水池，上有吊柜
 ![洗衣柜](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E9%98%B3%E5%8F%B0%E6%B4%97%E8%A1%A3%E5%8C%BA.jpg)
 
-## 可选
+### 可选
 1. 预留烘干机位置
 ----
 
@@ -246,10 +281,31 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 ![镜子](http://mmbiz.qpic.cn/mmbiz_jpg/Dn17O7VAvcYtMBF3lInkJj4r43QJhicSOHWe0hnImVyHicbwvQfTibbU71TOvE4ib0icGSQrt9e7jbRWQqc6Yibn8ypA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 ----
 
+# 11 扒来的好点子（可选）
+## 衣柜解决方案
+1. [宜家艾格特系列上墙](https://m.haohaozhu.com/blank/00009oc050008znk.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=eGgveUxlZzdKQ1NZU20wbS9kK3hmUT09OjFiZjdjNGU5YmU0OWU4ZGE4ZGU0YmUzMGY0NjY3MTZk) 划重点：必须要在承重墙安装 
 
-# 11 喜欢的七七八八（可选）
 
-- 装饰镜子：
+2. 顶天立地衣柜  [宜家PAX 改造](https://m.haohaozhu.com/blank/00005dv05000x2bv.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=SFRCdTZ1OC9Oejdpc0k2ME44U2lrdz09OjMzNWEyNmJlM2U2NjgwZTA1YWJmOTU2MDFhYWI5MzMz)
+
+
+
+## 厨房改造
+1. 折叠门
+2. 不要门，加窗帘。橱柜延伸到餐厅
+
+
+## 装修预算
+
+1. [预算表格](https://m.haohaozhu.com/blank/00000jb050002vuu.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=SFRCdTZ1OC9Oejdpc0k2ME44U2lrdz09OjMzNWEyNmJlM2U2NjgwZTA1YWJmOTU2MDFhYWI5MzMz) 
+
+
+## 收纳
+[网红洞洞板收纳DIY](https://m.haohaozhu.com/blank/00006a6050001ujb.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=SFRCdTZ1OC9Oejdpc0k2ME44U2lrdz09OjMzNWEyNmJlM2U2NjgwZTA1YWJmOTU2MDFhYWI5MzMz) 
+
+# 12 喜欢的七七八八（可选）
+
+## 装饰镜子：
 
 ![装饰镜](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E8%A3%85%E9%A5%B0%E9%95%9C.jpg)
 
@@ -258,7 +314,7 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 ![日式镜](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%97%A5%E5%BC%8F%E9%95%9C.jpeg)
 
 
-- 沙发：
+## 沙发：
 【我剁手都要买的宝贝（多功能简易贵妃沙发床小户型客厅三人经济型布艺沙发组合转角拆洗），快来和我一起瓜分红I包】，复制这条信息￥jW0E0J8Olx0￥后打开👉手淘👈[来自超级会员的分享]
 
 ![白色沙发](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E7%99%BD%E8%89%B2%E6%B2%99%E5%8F%91.jpeg)
@@ -270,18 +326,18 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 ![春沐家|现代简约北欧小户型沙发床2](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%98%A5%E6%B2%90%E5%AE%B6%7C%E7%8E%B0%E4%BB%A3%E7%AE%80%E7%BA%A6%E5%8C%97%E6%AC%A7%E5%B0%8F%E6%88%B7%E5%9E%8B%E6%B2%99%E5%8F%91%E5%BA%8A2.jpeg)
 
 
-- 书架： 
+## 书架： 
 【我剁手都要买的宝贝（LOFT北欧实木书架书柜定制美式复古铁艺置物架落地工业风创意书架），快来和我一起瓜分红I包】，复制这条信息￥gtnc0J8R4fK￥后打开👉手淘👈[来自超级会员的分享]
 
 ![梯子书架](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%A2%AF%E5%AD%90%E4%B9%A6%E6%9E%B6.jpeg
 )
 
 
-- 床头柜
+## 床头柜
 【我剁手都要买的宝贝（屁屁妈ins爆款北欧风简约儿童房床头柜 卧室边角圆形多功能收纳柜），快来和我一起瓜分红I包】，复制这条信息￥eXrQ0J8h2Za￥后打开👉手淘👈[来自超级会员的分享]
 
 
-- 床
+## 床
 http://m.tb.cn/h.WEAtJl1 
 
 ![艾伦储物床高箱床](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E8%89%BE%E4%BC%A6%E5%82%A8%E7%89%A9%E5%BA%8A%E9%AB%98%E7%AE%B1%E5%BA%8A.jpeg)
