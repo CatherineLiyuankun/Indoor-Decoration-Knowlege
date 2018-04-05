@@ -49,6 +49,7 @@ notebook: 装修
     - [厨房改造](#厨房改造)
     - [装修预算](#装修预算)
     - [收纳](#收纳)
+    - [防盗门改造+窗户](#防盗门改造窗户)
 - [12 喜欢的七七八八（可选）](#12-喜欢的七七八八可选)
     - [装饰镜子：](#装饰镜子)
     - [沙发：](#沙发)
@@ -184,16 +185,20 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 ## 5.1 主卧阳台
 
 ### 必要
-1. 阳台要养花，考虑花园式阳台。
+1. 阳台要养花，考虑花园式阳台（花架）。
 2. 有个书架或置物架
+3. 考虑防水防潮
+4. 主卧阳台主要考虑休闲和工作
 
 
 ### 可选
-1. 主卧阳台放一个小桌子，可下棋，看书，可配蒲团或懒人沙发
+1. 主卧阳台放一个小桌子，可下棋，看书，可配蒲团或懒人沙发/吊椅？摇椅？
 2. 或者可放瑜伽垫
 3. 养竹子
-4. 狗窝+猫爬架
+4. 狗窝+猫爬架 阳台？客厅？
 5. 主卧阳台与客厅阳台有屏风 之类的 软隔断
+6. 自动浇灌系统
+7. 折叠桌
 
 ## 5.2 客厅阳台
 ### 必要
@@ -267,11 +272,12 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 - 放卫生纸 大一点的盒子，有盖子
 - 马桶旁边要有插座
 - 马桶上方有储物空间
-- 水池子上的水龙头 是高管的
+- 水池子上的水龙头 是高管的（有直接洗头的需求）
 
 ## 可选
 - 厕所门后要有挂钩
 - 主卧厕所有双台盆，或长条台盆
+- 猫砂盆放在哪？
 
 ![水台](https://qhyxpicoss.kujiale.com/r/2016/09/24/DVEB4GF6EJLMOK6R4H3WKTI8_3200x2400.jpg@!720x660)
 
@@ -282,6 +288,8 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 ----
 
 # 11 扒来的好点子（可选）
+[中国式家居难题 10](https://m.haohaozhu.com/zhinan/00000ic02000097p.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=d010L2VHVVJEV2tOYWt1aFNSSmVSUT09OmViNmRlMDM4NGNiZTllNzlmNThlOTQyZWE2NTMyNDM0&from=singlemessage&isappinstalled=0)
+
 ## 衣柜解决方案
 1. [宜家艾格特系列上墙](https://m.haohaozhu.com/blank/00009oc050008znk.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=eGgveUxlZzdKQ1NZU20wbS9kK3hmUT09OjFiZjdjNGU5YmU0OWU4ZGE4ZGU0YmUzMGY0NjY3MTZk) 划重点：必须要在承重墙安装 
 
@@ -302,6 +310,9 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 
 ## 收纳
 [网红洞洞板收纳DIY](https://m.haohaozhu.com/blank/00006a6050001ujb.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=SFRCdTZ1OC9Oejdpc0k2ME44U2lrdz09OjMzNWEyNmJlM2U2NjgwZTA1YWJmOTU2MDFhYWI5MzMz) 
+
+##防盗门改造+窗户
+[毛毡改造防盗门](https://m.haohaozhu.com/zhinan/00000bx02000097p.html?comefrom=inset)
 
 # 12 喜欢的七七八八（可选）
 
