@@ -25,9 +25,10 @@ notebook: 装修
     - [6.2 主卧厕所](#62-主卧厕所)
 - [7 次卧（南）+ 走入式衣柜 + 储物间](#7-次卧南-走入式衣柜--储物间)
     - [7.1 次卧（南)](#71-次卧南)
-    - [7.2 走入式衣柜 + 储物间](#72-走入式衣柜--储物间)
+    - [7.2 走入式衣柜 / 储物间](#72-走入式衣柜--储物间)
 - [11 扒来的好点子（可选）](#11-扒来的好点子可选)
     - [衣柜解决方案](#衣柜解决方案)
+    - [主材选择](#主材选择)
     - [厨房改造](#厨房改造)
     - [装修预算](#装修预算)
     - [收纳](#收纳)
@@ -48,7 +49,8 @@ notebook: 装修
 - 供暖：水地暖
 - 空调：一拖五中央空调
 - 地板 木纹瓷砖 、浅色瓷砖 或者 多层、三层复合地板
-- 居住人： 主卧（年轻夫妇），南边次卧（母亲）<->北边儿童房（2-3年后可能要小孩）,两者可能调换
+- 居住人： 主卧（年轻夫妇，男身高178，女身高152），
+南边次卧（母亲）<->北边儿童房（2-3年后可能要小孩）,两者可能调换
 
 - 收纳要多
 - 插座 要足够和合理； 智能家居 智能插座，摄像头，电动窗帘可选？
@@ -75,11 +77,11 @@ notebook: 装修
 - 增大现有厨房面积。
 开放式厨房 或 半开放厨房（厨房门为可折叠推拉门，可以完全折叠打开 或者 有帘子挡下油烟）
 半开放厨房 = 中厨 + 可折叠推拉门/帘子 + 西厨 连续
-- 考虑 *洗碗机*(上下出水口)（嵌入式）， 微波炉（独立）， 烤箱（独立）（高柜） 位置
+- 考虑 *西门子13套洗碗机*(上下出水口)（嵌入式）， 1个微波炉（独立）， 1个烤箱（独立）（高柜） 位置
 - 顶柜
 - 厨房操作台灯或灯带
 - 锅盖架
-
+- 高低台面
 
 -- 可选
 - 因为电器都在台面上，插座倒着暗装，这样三脚的插头就能够更方便地使用，线也不必扭一个大弯才能插到插座上去了。
@@ -166,9 +168,6 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 
 -- 可选
 - 公用厕所 干湿分离， 洗手台在外面
-- 
-
-![水台](https://qhyxpicoss.kujiale.com/r/2016/09/24/DVEB4GF6EJLMOK6R4H3WKTI8_3200x2400.jpg@!720x660)
 
 - 牙刷架
 - 镜子有一圈灯
@@ -248,15 +247,12 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 ## 6.1 主卧
 -- 必要
 
-- 木质床，床下面能储物（抽屉），床头有插座
+- 木质床，床下面能储物（抽屉/箱体，不留床底空间 因为养猫），床头有插座
+- 不要电视
 - 主卧要有大衣柜，要尽量大 （穿银镜可以在衣柜的一侧）
 - 卧室有放穿一次衣服的空间，不要一张放满衣服的椅子
 
-![床头顶柜](http://mmbiz.qpic.cn/mmbiz_jpg/Dn17O7VAvcaRnOvZld7nI85SdZgnlR3oQ5fWtLLyaUvpTU7Kr1S2GTLf4NtRIEWicibS3EMVthL7BGWYicejbfUCA/640)
-
-![柜](http://mmbiz.qpic.cn/mmbiz_jpg/Dn17O7VAvcaRnOvZld7nI85SdZgnlR3oug5OrPAgIAFN25qke27HggLUZclfQ6MAGVKURhMRNw726EkZunIeUg/640)
-
-![床](http://mmbiz.qpic.cn/mmbiz_jpg/Dn17O7VAvcYtMBF3lInkJj4r43QJhicSO1Hzg5lkqYfTG3k4Wpv3yjYuks2karQ63bLich15dIA1leopchDg2Tvg/640)
+![床头顶柜](http://mmbiz.qpic.cn/mmbiz_jpg/Dn17O7VAvcaRnOvZld7nI85SdZgnlR3oug5OrPAgIAFN25qke27HggLUZclfQ6MAGVKURhMRNw726EkZunIeUg/640)
 
 ![中式卧室](https://qhyxpicoss.kujiale.com/r/2016/12/16/DVD2XII4EJJ4ESV2HL3WKXI8_1600x1200.jpg@!720x660)
 
@@ -270,8 +266,10 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 ## 6.2 主卧厕所
 -- 必要
 - 洗澡位置的墙角要有一个放洗浴用品的（悬空）架子
-- 主卧厕所有双台盆，或长条台盆
+- 主卧厕所有长条台盆（两人用合适）如图：
+![水台](https://qhyxpicoss.kujiale.com/r/2016/09/24/DVEB4GF6EJLMOK6R4H3WKTI8_3200x2400.jpg@!720x660)
 - 护肤化妆品要有地方放，主卧厕所洗手台上面有柜子放化妆品，下面有柜子放吹风机。洗手台可做梳妆台，如果主卧里有个梳妆台，这个梳妆台最好能兼做书桌。
+- 有可伸缩的小圆镜子
 
 -- 可选
 - 主卧厕所门后要有挂钩
@@ -284,15 +282,15 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 
 -- 必要
 
-1.飘窗
+- 飘窗
+- 不要电视
 
 -- 可选
-- 榻榻米
 - 次卧的走入式衣柜 + 储物间 合并为储物间，留一点位置做次卧衣柜？
 
 ----
 
-## 7.2 走入式衣柜 + 储物间
+## 7.2 走入式衣柜 / 储物间
 -- 必要
 - 被子 鞋子 包 户外用品（帐篷） 健身器材 玩具（未来） 日化
 
@@ -310,11 +308,14 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 
 2. 顶天立地衣柜  [宜家PAX 改造](https://m.haohaozhu.com/blank/00005dv05000x2bv.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=SFRCdTZ1OC9Oejdpc0k2ME44U2lrdz09OjMzNWEyNmJlM2U2NjgwZTA1YWJmOTU2MDFhYWI5MzMz)
 
-
+## 主材选择
+- [杭州建材市场选购攻略](https://m.haohaozhu.com/blank/00008vd05000gksv.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=elRhS0lLZ0d0dEZYS2I3bVV5YlFKdz09Ojk4MmUzNjIzMmU3MTRmMTUwMWUzMDg5Yjk4NDM2OTdk)
 
 ## 厨房改造
 1. 折叠门
 2. 不要门，加窗帘。橱柜延伸到餐厅
+3. [好好住厨房装修经验集锦](https://m.haohaozhu.com/blank/00007dm05000gjvw.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=ZFhZMTFhc2hWb2s1c3ZIOGN6eEJidz09Ojg3YjlmNjdjMmMzYTQwN2NlYjQ0ZjJkNTQyMTFkYjFk)
+4. 好好住 [高低台面](https://m.haohaozhu.com/zhinan/000009s02000097p.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=ZFhZMTFhc2hWb2s1c3ZIOGN6eEJidz09Ojg3YjlmNjdjMmMzYTQwN2NlYjQ0ZjJkNTQyMTFkYjFk)
 
 
 ## 装修预算
@@ -327,6 +328,8 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 
 ##防盗门改造+窗户
 [毛毡改造防盗门](https://m.haohaozhu.com/zhinan/00000bx02000097p.html?comefrom=inset)
+
+----
 
 # 12 喜欢的七七八八（可选）
 
@@ -362,12 +365,7 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 【我剁手都要买的宝贝（屁屁妈ins爆款北欧风简约儿童房床头柜 卧室边角圆形多功能收纳柜），快来和我一起瓜分红I包】，复制这条信息￥eXrQ0J8h2Za￥后打开👉手淘👈[来自超级会员的分享]
 
 
-## 床
-http://m.tb.cn/h.WEAtJl1 
-
-![艾伦储物床高箱床](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E8%89%BE%E4%BC%A6%E5%82%A8%E7%89%A9%E5%BA%8A%E9%AB%98%E7%AE%B1%E5%BA%8A.jpeg)
-
-【朝斯堡日式实木床1.8米双人床主卧1.5m北欧实木床现代简约储物床】，复制这条信息￥ieNY0J8QxYs￥后打开👉手淘👈[来自超级会员的分享]
-
-
+## 床 
+箱床，不留床底
+- 【朝斯堡日式实木床1.8米双人床主卧1.5m北欧实木床现代简约储物床】，复制这条信息￥ieNY0J8QxYs￥后打开👉手淘👈[来自超级会员的分享]
 ![朝斯堡日式实木床](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%9C%9D%E6%96%AF%E5%A0%A1%E6%97%A5%E5%BC%8F%E5%AE%9E%E6%9C%A8%E5%BA%8A.jpeg)
