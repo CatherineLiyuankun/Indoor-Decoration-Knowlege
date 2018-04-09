@@ -43,11 +43,30 @@ notebook: 装修
 <!-- /TOC -->
 
 # 0 整体要求
+> 欢迎任何大胆和有创意的想法，
+
+>我很乐意倾听和接受，
+
+>很高兴你带给我的任何惊喜！！！
+
+>任何无趣的实用需求，都可以是美的挑战
+
+>任何无边的可笑幻想，都可以是现实的平衡
+
+>很幸运遇到你 和 你的设计
+
+>把我的家放在你心中的远山~
+
+>把你心中的远山藏于我的家中~
+
+
 - 简约、实用、舒适，不要求特定风格（类 日式+北欧）, 有日式的禅意+温馨、北欧的简洁+绿植
+喜欢苏州博物馆的风格！！！
 - 主色调 白色 灰色 木色 等亮色，可有少量单面墙为深色（黑板墙）
 - 要求硬装尽量简洁 质量好，软装方便变化
+- 灯光要丰富有层次有质感，没有操作暗角。[灯光和镜子的运用](https://m.haohaozhu.com/bangyang/0000t5601000s7vb.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=anc4eG13a09pWXpHd29FUGtOSDNNdz09OjA1M2ZlZTkxZTRlZTYwZTcxYmZkNTk3MWE0MWNjOTk2)使得视觉的延伸，有空间感
 - 供暖：水地暖
-- 空调：一拖五中央空调
+- 空调：一拖五中央空
 - 地板 木纹瓷砖 、浅色瓷砖 或者 多层、三层复合地板
 - 居住人： 主卧（年轻夫妇，男身高178，女身高152），
 南边次卧（母亲）<->北边儿童房（2-3年后可能要小孩）,两者可能调换
@@ -66,7 +85,7 @@ notebook: 装修
 
 -- 可选
 - 门（颜色改造） 智能门锁 [丁盯安全门锁](https://item.jd.com/10095353020.html)
-- 挂自行车
+- 挂自行车 的自行车架
 - 普通的腻子，可选用**耐水腻子**
 - 不安装防盗窗，可能安装**金刚网**
 
@@ -77,11 +96,12 @@ notebook: 装修
 - 增大现有厨房面积。
 开放式厨房 或 半开放厨房（厨房门为可折叠推拉门，可以完全折叠打开 或者 有帘子挡下油烟）
 半开放厨房 = 中厨 + 可折叠推拉门/帘子 + 西厨 连续
-- 考虑 *西门子13套洗碗机*(上下出水口)（嵌入式）， 1个微波炉（独立）， 1个烤箱（独立）（高柜） 位置
+- 考虑 *西门子13套洗碗机*(上下出水口)（嵌入式）， 1个微波炉（独立）， 1个烤箱（独立）（高柜），垃圾处理器 位置
 - 顶柜
-- 厨房操作台灯或灯带
+- 厨房操作台 吊灯或灯带
 - 锅盖架
 - 高低台面
+- 拐角拉篮
 
 -- 可选
 - 因为电器都在台面上，插座倒着暗装，这样三脚的插头就能够更方便地使用，线也不必扭一个大弯才能插到插座上去了。
@@ -147,12 +167,11 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 # 3 儿童房（北）
 
 -- 必要
-
-- 衣柜
+- 飘窗
 
 -- 可选
 - 可能老人住，离厕所进方便
-- 飘窗
+- 衣柜
 
 ----
 
@@ -303,7 +322,8 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 [中国式家居难题 10](https://m.haohaozhu.com/zhinan/00000ic02000097p.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=d010L2VHVVJEV2tOYWt1aFNSSmVSUT09OmViNmRlMDM4NGNiZTllNzlmNThlOTQyZWE2NTMyNDM0&from=singlemessage&isappinstalled=0)
 
 ## 衣柜解决方案
-1. [宜家艾格特系列上墙](https://m.haohaozhu.com/blank/00009oc050008znk.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=eGgveUxlZzdKQ1NZU20wbS9kK3hmUT09OjFiZjdjNGU5YmU0OWU4ZGE4ZGU0YmUzMGY0NjY3MTZk) 划重点：必须要在承重墙安装 
+1. [宜家艾格特系列上墙](https://m.haohaozhu.com/blank/00009oc050008znk.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=eGgveUxlZzdKQ1NZU20wbS9kK3hmUT09OjFiZjdjNGU5YmU0OWU4ZGE4ZGU0YmUzMGY0NjY3MTZk) 
+划重点：必须要在承重墙安装；另外做 1帘子 2 柜门 3 移门（木，玻璃，黑板门）
 
 
 2. 顶天立地衣柜  [宜家PAX 改造](https://m.haohaozhu.com/blank/00005dv05000x2bv.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=SFRCdTZ1OC9Oejdpc0k2ME44U2lrdz09OjMzNWEyNmJlM2U2NjgwZTA1YWJmOTU2MDFhYWI5MzMz)
