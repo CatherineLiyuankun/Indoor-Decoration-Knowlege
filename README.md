@@ -307,7 +307,8 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 - 主卧厕所有长条台盆（两人用合适）如图：
 ![水台](https://qhyxpicoss.kujiale.com/r/2016/09/24/DVEB4GF6EJLMOK6R4H3WKTI8_3200x2400.jpg@!720x660)
 - 护肤化妆品要有地方放，主卧厕所洗手台上面有柜子放化妆品，下面有柜子放吹风机或壁挂式。洗手台可做梳妆台，如果主卧里有个梳妆台，这个梳妆台最好能兼做书桌。
-- 有可伸缩的小圆镜子
+- 有可伸缩的
+![小圆镜子](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/%E8%A3%85%E4%BF%AE%E5%90%8E%E6%9C%9F/%E8%BD%AF%E8%A3%85/%E5%8F%AF%E4%BC%B8%E7%BC%A9%E9%95%9C%E5%AD%90.jpeg)
 
 -- 可选
 - 主卧厕所门后要有挂钩
@@ -365,6 +366,8 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 ## 厕所合集
 
 1. [好好住厕所干货集锦](https://m.haohaozhu.com/zhinan/00000o902000097p.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=QU5iQmlGTWpJVzFqdk5tUWRTRktxUT09OmVhYTRkZTBjM2RlZTI3ZjA2MDVlZmIzYmE0MDc5NTUw)
+
+![tips](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/%E8%A3%85%E4%BF%AE%E4%B8%AD%E6%9C%9F/%E5%8D%AB%E7%94%9F%E9%97%B4/%E5%8E%95%E6%89%80%E5%B0%8Ftip.png)
 
 2. [卫生间喷枪](https://m.haohaozhu.com/blank/0000d6a0500009f2.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=QU5iQmlGTWpJVzFqdk5tUWRTRktxUT09OmVhYTRkZTBjM2RlZTI3ZjA2MDVlZmIzYmE0MDc5NTUw)
 
