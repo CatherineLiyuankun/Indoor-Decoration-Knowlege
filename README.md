@@ -27,23 +27,18 @@ notebook: 装修
     - [7.1 次卧（南)](#71-次卧南)
     - [7.2 走入式衣柜 / 储物间](#72-走入式衣柜--储物间)
 - [11 扒来的好点子（可选）](#11-扒来的好点子可选)
+    - [全屋](#全屋)
     - [智能家居解决方案](#智能家居解决方案)
     - [衣柜解决方案](#衣柜解决方案)
-    - [主材选择](#主材选择)
     - [厨房改造](#厨房改造)
     - [厕所合集](#厕所合集)
-    - [墙顶地](#墙顶地)
-    - [装修预算](#装修预算)
     - [收纳](#收纳)
     - [防盗门改造+窗户](#防盗门改造窗户)
-- [12 家电选择](#12-家电选择)
-    - [燃气灶](#燃气灶)
-- [13 喜欢的七七八八（可选）](#13-喜欢的七七八八可选)
-    - [装饰镜子：](#装饰镜子)
-    - [沙发：](#沙发)
-    - [书架：](#书架)
-    - [床头柜](#床头柜)
-    - [床](#床)
+- [装修目录](#装修目录)
+    - [装修需求](#装修需求)
+    - [装修前期](#装修前期)
+    - [装修中期](#装修中期)
+    - [装修后期](#装修后期)
 
 <!-- /TOC -->
 
@@ -196,6 +191,7 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 # 4 厕所
 -- 必要
 - 不要浴缸，只要淋浴
+- 淋浴房加扶手
 - 镜子旁边或内部要有置物柜
 - 放卫生纸 大一点的盒子，有盖子
 - 马桶旁边要有插座
@@ -340,7 +336,21 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 
 
 # 11 扒来的好点子（可选）
-[中国式家居难题 10](https://m.haohaozhu.com/zhinan/00000ic02000097p.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=d010L2VHVVJEV2tOYWt1aFNSSmVSUT09OmViNmRlMDM4NGNiZTllNzlmNThlOTQyZWE2NTMyNDM0&from=singlemessage&isappinstalled=0)
+
+我的异想天开：
+* 阳台弄镜子把光借进屋里
+* 客厅电视墙整面做镜子
+* 客厅电视墙 上的两个门 组成一个大宅门
+* 客厅沙发墙做苏州博物馆的远山的景，加浅水池 屋顶贴房檐的瓦，里面有灯
+* 客厅墙上装饰镜子，做出园林的窗户得感觉
+* 船当桌子或鱼缸
+* 所有墙打掉，屋顶做交错的导轨，玻璃门可以把屋子组成任意格局
+
+---
+## 全屋
+- [中国式家居难题 10](https://m.haohaozhu.com/zhinan/00000ic02000097p.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=d010L2VHVVJEV2tOYWt1aFNSSmVSUT09OmViNmRlMDM4NGNiZTllNzlmNThlOTQyZWE2NTMyNDM0&from=singlemessage&isappinstalled=0)
+
+- [137㎡开放餐厨功能超强的家，蒸箱洗碗机样样齐，还做了三分离卫生间](https://mp.weixin.qq.com/s/kvrxeqreZm0i35Cw_EmO-Q)
 
 ## 智能家居解决方案
 - [智能家居系统预留点位](https://www.toutiao.com/i6547534085374345735/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&timestamp=1524495925&app=news_article&utm_source=weixin&isappinstalled=0&iid=25538020858&utm_medium=toutiao_android&wxshare_count=2&pbid=6501810469974787597)
@@ -354,14 +364,16 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 
 2. 顶天立地衣柜  [宜家PAX 改造](https://m.haohaozhu.com/blank/00005dv05000x2bv.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=SFRCdTZ1OC9Oejdpc0k2ME44U2lrdz09OjMzNWEyNmJlM2U2NjgwZTA1YWJmOTU2MDFhYWI5MzMz)
 
-## 主材选择
-- [杭州建材市场选购攻略](https://m.haohaozhu.com/blank/00008vd05000gksv.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=elRhS0lLZ0d0dEZYS2I3bVV5YlFKdz09Ojk4MmUzNjIzMmU3MTRmMTUwMWUzMDg5Yjk4NDM2OTdk)
+
 
 ## 厨房改造
 1. 折叠门
 2. 不要门，加窗帘。橱柜延伸到餐厅
 3. [好好住厨房装修经验集锦](https://m.haohaozhu.com/blank/00007dm05000gjvw.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=ZFhZMTFhc2hWb2s1c3ZIOGN6eEJidz09Ojg3YjlmNjdjMmMzYTQwN2NlYjQ0ZjJkNTQyMTFkYjFk)
 4. 好好住 [高低台面](https://m.haohaozhu.com/zhinan/000009s02000097p.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=ZFhZMTFhc2hWb2s1c3ZIOGN6eEJidz09Ojg3YjlmNjdjMmMzYTQwN2NlYjQ0ZjJkNTQyMTFkYjFk)
+
+- [厨房装修的后悔案例](https://mp.weixin.qq.com/s/xjBj0DWIz5tLFQGgLl_88Q)
+- [厨房台面](https://mp.weixin.qq.com/s/aZ8v4HnmXr8uyx2_zsHkYQ)
 
 ## 厕所合集
 
@@ -376,18 +388,6 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 4. [排水方式](https://m.haohaozhu.com/blank/000044f050000b0k.html?comefrom=inset)
 种草 长条形 隐形排水地漏
 
-## 墙顶地
-- 门槛石 
-[好好住门槛石话题](https://m.haohaozhu.com/question/30.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=ZFFuWmNMTEM3S3F4TEI3bC9PNmtydz09OjBmZjZlNDBkZTE2MjdlNzNiODU3YTAzMjFhYTNkMzA1)  
-[住范儿门槛石文章](https://mp.weixin.qq.com/s/ZA3CrqvpeSF9cbyJrEWCXw)
-门槛石优点： 防水
-结论：卫生间用门槛石，或者开放式阳台也可以用。屋内为了颜值高可以用瓷砖或者铜扣条
-
-## 装修预算
-
-1. [预算表格](https://m.haohaozhu.com/blank/00000jb050002vuu.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=SFRCdTZ1OC9Oejdpc0k2ME44U2lrdz09OjMzNWEyNmJlM2U2NjgwZTA1YWJmOTU2MDFhYWI5MzMz) 
-
-
 ## 收纳
 1. [网红洞洞板收纳DIY](https://m.haohaozhu.com/blank/00006a6050001ujb.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=SFRCdTZ1OC9Oejdpc0k2ME44U2lrdz09OjMzNWEyNmJlM2U2NjgwZTA1YWJmOTU2MDFhYWI5MzMz) 
 
@@ -400,51 +400,43 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 
 ----
 
-# 12 家电选择
 
-## 燃气灶
-1. [好好住燃气灶话题](https://m.haohaozhu.com/question/176.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=ZzZzYW10YkdIQ0tiMERlSUF5MHRGUT09OjlkNmExMjZhMTcwMzcwZjlmYWUwZGU3NjkwMTRkNTZj)
-
-2. [张大妈日本燃气灶分析](https://post.smzdm.com/p/611343?send_by=3077416576)
-
-种草 林内 内嵌式 三头 Mytone 系列 需海淘
 
 ----
 
-# 13 喜欢的七七八八（可选）
+# 装修目录
+## 装修需求
+## 装修前期
+- [前期准备](#前期准备)
+- [动线布局](#动线布局)
+- [预算](#预算)
+- [配色](#配色)
+- [材料](#材料)
+    - [主材选择](#主材选择)
+- [环保](#环保)
 
-## 装饰镜子：
+## 装修中期
+- [卫生间](#卫生间)
+- [厨房](#厨房)
+- [墙顶地](#墙顶地)
+    - [瓷砖](#瓷砖)
+- [定制](#定制)
+- [水电](#水电)
+- [开关](#开关)
+- [门窗](#门窗)
 
-![装饰镜](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E8%A3%85%E9%A5%B0%E9%95%9C.jpg)
-
-【我剁手都要买的宝贝（壁挂原木镜子 挂墙镜 日式浴室镜 玄光圆镜 出口实木镜  装饰镜），快来和我一起瓜分红I包】，复制这条信息￥emSm0J8hKdt￥后打开👉手淘👈[来自超级会员的分享]
-
-![日式镜](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%97%A5%E5%BC%8F%E9%95%9C.jpeg)
-
-
-## 沙发：
-【我剁手都要买的宝贝（多功能简易贵妃沙发床小户型客厅三人经济型布艺沙发组合转角拆洗），快来和我一起瓜分红I包】，复制这条信息￥jW0E0J8Olx0￥后打开👉手淘👈[来自超级会员的分享]
-
-![白色沙发](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E7%99%BD%E8%89%B2%E6%B2%99%E5%8F%91.jpeg)
-
-
-【我剁手都要买的宝贝（春沐家|现代简约北欧小户型沙发床  麻布沙发 胡桃木白橡布艺拆洗），快来和我一起瓜分红I包】，复制这条信息￥jd230J88Mgb￥后打开👉手淘👈[来自超级会员的分享]
-
-![春沐家|现代简约北欧小户型沙发床1](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%98%A5%E6%B2%90%E5%AE%B6%7C%E7%8E%B0%E4%BB%A3%E7%AE%80%E7%BA%A6%E5%8C%97%E6%AC%A7%E5%B0%8F%E6%88%B7%E5%9E%8B%E6%B2%99%E5%8F%91%E5%BA%8A1.jpeg)
-
-
-## 书架： 
-【我剁手都要买的宝贝（LOFT北欧实木书架书柜定制美式复古铁艺置物架落地工业风创意书架），快来和我一起瓜分红I包】，复制这条信息￥gtnc0J8R4fK￥后打开👉手淘👈[来自超级会员的分享]
-
-![梯子书架](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%A2%AF%E5%AD%90%E4%B9%A6%E6%9E%B6.jpeg
-)
-
-
-## 床头柜
-【我剁手都要买的宝贝（屁屁妈ins爆款北欧风简约儿童房床头柜 卧室边角圆形多功能收纳柜），快来和我一起瓜分红I包】，复制这条信息￥eXrQ0J8h2Za￥后打开👉手淘👈[来自超级会员的分享]
-
-
-## 床 
-箱床，不留床底
-- 【朝斯堡日式实木床1.8米双人床主卧1.5m北欧实木床现代简约储物床】，复制这条信息￥ieNY0J8QxYs￥后打开👉手淘👈[来自超级会员的分享]
-![朝斯堡日式实木床](https://github.com/CatherineLiyuankun/Indoor-Decoration-Knowlege/blob/master/Res/Decoration/%E6%9C%9D%E6%96%AF%E5%A0%A1%E6%97%A5%E5%BC%8F%E5%AE%9E%E6%9C%A8%E5%BA%8A.jpeg)
+## 装修后期
+- [家具](#家具)
+    - [沙发：](#沙发)
+    - [书架：](#书架)
+    - [床头柜](#床头柜)
+    - [床](#床)
+- [家电](#家电)
+    - [燃气灶](#燃气灶)
+    - [油烟机](#油烟机)
+    - [洗碗机](#洗碗机)
+    - [洗衣机](#洗衣机)
+    - [空调](#空调)
+- [灯具](#灯具)
+- [软装](#软装)
+    - [装饰镜子：](#装饰镜子)
