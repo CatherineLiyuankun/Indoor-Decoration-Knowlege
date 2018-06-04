@@ -34,6 +34,7 @@ notebook: 装修
     - [厕所合集](#厕所合集)
     - [收纳](#收纳)
     - [防盗门改造+窗户](#防盗门改造窗户)
+    - [喵](#喵)
 - [装修目录](#装修目录)
     - [装修需求](#装修需求)
     - [装修前期](#装修前期)
@@ -352,10 +353,17 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 
 - [137㎡开放餐厨功能超强的家，蒸箱洗碗机样样齐，还做了三分离卫生间](https://mp.weixin.qq.com/s/kvrxeqreZm0i35Cw_EmO-Q)
 
+- [装修喵星人之家 篇十九：装修中的100个零散知识点汇总](https://post.smzdm.com/p/599802/#cl_3)
+
 ## 智能家居解决方案
 - [智能家居系统预留点位](https://www.toutiao.com/i6547534085374345735/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&timestamp=1524495925&app=news_article&utm_source=weixin&isappinstalled=0&iid=25538020858&utm_medium=toutiao_android&wxshare_count=2&pbid=6501810469974787597)
 
 - [智能家居小米](https://www.toutiao.com/a6529333756317139460/)
+
+- [我家的第二路由器：NETGEAR 网件 R6800 VS R7000P & Linksys 领势 EA6500V2](https://post.smzdm.com/p/596572/)
+
+- [装修喵星人之家 篇二十二：#本站首晒#萤石DP1触摸屏智能猫眼的选购、安装和体验](https://post.smzdm.com/p/645225/)
+
 
 ## 衣柜解决方案
 1. [宜家艾格特系列上墙](https://m.haohaozhu.com/blank/00009oc050008znk.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=eGgveUxlZzdKQ1NZU20wbS9kK3hmUT09OjFiZjdjNGU5YmU0OWU4ZGE4ZGU0YmUzMGY0NjY3MTZk) 
@@ -375,6 +383,9 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 - [厨房装修的后悔案例](https://mp.weixin.qq.com/s/xjBj0DWIz5tLFQGgLl_88Q)
 - [厨房台面](https://mp.weixin.qq.com/s/aZ8v4HnmXr8uyx2_zsHkYQ)
 
+- [装修喵星人之家 篇二十三：#年后装修焕新家#厨房水路设备选购攻略及实测](https://post.smzdm.com/p/637536/)
+
+
 ## 厕所合集
 
 1. [好好住厕所干货集锦](https://m.haohaozhu.com/zhinan/00000o902000097p.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=QU5iQmlGTWpJVzFqdk5tUWRTRktxUT09OmVhYTRkZTBjM2RlZTI3ZjA2MDVlZmIzYmE0MDc5NTUw)
@@ -389,14 +400,26 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 种草 长条形 隐形排水地漏
 
 ## 收纳
-1. [网红洞洞板收纳DIY](https://m.haohaozhu.com/blank/00006a6050001ujb.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=SFRCdTZ1OC9Oejdpc0k2ME44U2lrdz09OjMzNWEyNmJlM2U2NjgwZTA1YWJmOTU2MDFhYWI5MzMz) 
+- [网红洞洞板收纳DIY](https://m.haohaozhu.com/blank/00006a6050001ujb.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=SFRCdTZ1OC9Oejdpc0k2ME44U2lrdz09OjMzNWEyNmJlM2U2NjgwZTA1YWJmOTU2MDFhYWI5MzMz) 
 
-2. [软木板](https://m.haohaozhu.com/zhinan/000004m02000097p.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=a2pWd2lNajZSMWo2elBOZTFoQ3podz09OmU5YWQ4NGM1ODQ4MDEzY2RlMmU1ZDgwZWQ5MzQyNzJk)
+- [软木板](https://m.haohaozhu.com/zhinan/000004m02000097p.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=a2pWd2lNajZSMWo2elBOZTFoQ3podz09OmU5YWQ4NGM1ODQ4MDEzY2RlMmU1ZDgwZWQ5MzQyNzJk)
+
+- [节省桌面空间 创造多种用途：Ergotron 爱格升 LX显示器 支架](https://post.smzdm.com/p/111316/)
+
+- [自行车挂墙解决方案大全](https://post.smzdm.com/p/34122/) 
+
+- [书桌整理大作战：电脑降级、挂架改造、桌下布线](https://post.smzdm.com/p/207472/)
 
 ##防盗门改造+窗户
 - [毛毡改造防盗门](https://m.haohaozhu.com/zhinan/00000bx02000097p.html?comefrom=inset)
 
 - 刷黑板漆
+
+-
+
+
+## 喵
+[装修喵星人之家 篇十四：自制豪华猫厕所](https://post.smzdm.com/p/65104/)
 
 ----
 
@@ -431,12 +454,22 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
     - [书架：](#书架)
     - [床头柜](#床头柜)
     - [床](#床)
+    - [座椅](#座椅)
 - [家电](#家电)
     - [燃气灶](#燃气灶)
     - [油烟机](#油烟机)
     - [洗碗机](#洗碗机)
+    - [垃圾处理器](#垃圾处理器)
     - [洗衣机](#洗衣机)
     - [空调](#空调)
+    - [投影](#投影)
+    - [扫地机器人](#扫地机器人)
+- [卫浴](#卫浴)
+    - [淋浴](#淋浴)
+    - [马桶](#马桶)
+    - [水槽](#水槽)
+    - [龙头](#龙头)
+    - [地漏](#地漏)
 - [灯具](#灯具)
 - [软装](#软装)
     - [装饰镜子：](#装饰镜子)
