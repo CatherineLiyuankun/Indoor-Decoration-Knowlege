@@ -7,15 +7,15 @@ notebook: 装修
 <!-- TOC -->
 
 - [卫生间](#卫生间)
-- [厨房](#厨房)
+- [厨房](#厨房)
 - [墙顶地](#墙顶地)
     - [墙](#墙)
-    - [地-瓷砖](#地-瓷砖)
     - [顶](#顶)
+    - [地](#地)
 - [定制](#定制)
-- [水电](#水电)
-- [开关](#开关)
-    - [厨房](#厨房-1)
+- [水电](#水电)
+- [开关](#开关)
+    - [厨房](#厨房-1)
     - [书房](#书房)
     - [餐厅](#餐厅)
     - [北阳台](#北阳台)
@@ -36,23 +36,12 @@ notebook: 装修
 # 卫生间
 ----
 
-# 厨房
+# 厨房
 ----
 
 # 墙顶地
 
 ## 墙
-
-## 地-瓷砖
-
-- [佛山十年建材老混子跟大家聊聊建材采购那些事儿~_家居装饰_论坛_天涯社区](http://bbs.tianya.cn/post-766-389060-1.shtml) 
-简单来说买砖就看佛山系，瓷砖的生产模式决定了同一集团生产的不同品牌砖的质量是一样的，只是品牌溢价问题，图实惠只要挑这个集团最不出名的品牌即可
-
-- 门槛石 
-[好好住门槛石话题](https://m.haohaozhu.com/question/30.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=ZFFuWmNMTEM3S3F4TEI3bC9PNmtydz09OjBmZjZlNDBkZTE2MjdlNzNiODU3YTAzMjFhYTNkMzA1)  
-[住范儿门槛石文章](https://mp.weixin.qq.com/s/ZA3CrqvpeSF9cbyJrEWCXw)
-门槛石优点： 防水
-结论：卫生间用门槛石，或者开放式阳台也可以用。屋内为了颜值高可以用瓷砖或者铜扣条
 
 ## 顶
 
@@ -61,24 +50,47 @@ notebook: 装修
 美尔凯特是逛红星美凯龙被拦着推荐了，检索之后发现还不错，有天猫旗舰店价格比友邦实惠。
 可是最后选择了奥普，主要是因为学习了集成吊顶的扣板已经成熟，正规公司都没有什么问题，而集成吊顶的电器很多厂商做不专业，奥普是老牌卫浴厂商，他们家的专利浴霸比较成熟，而且他们京东旗舰店常年有特价款。https://item.jd.com/23875130742.html?jd_pop=679387b9-2c1a-4984-a5ff-7112c2c98ce3&abt=3
 
+## 地
+
+- 瓷砖 [佛山十年建材老混子跟大家聊聊建材采购那些事儿~_家居装饰_论坛_天涯社区](http://bbs.tianya.cn/post-766-389060-1.shtml) 
+简单来说买砖就看佛山系，瓷砖的生产模式决定了同一集团生产的不同品牌砖的质量是一样的，只是品牌溢价问题，图实惠只要挑这个集团最不出名的品牌即可
+
+- 地板 [13年经验地板老板，教你30分钟快准狠选地板](https://mp.weixin.qq.com/s/OdGHuIry9sie4ZufAvD0kw)
+
+- 门槛石 
+[好好住门槛石话题](https://m.haohaozhu.com/question/30.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=ZFFuWmNMTEM3S3F4TEI3bC9PNmtydz09OjBmZjZlNDBkZTE2MjdlNzNiODU3YTAzMjFhYTNkMzA1)  
+[住范儿门槛石文章](https://mp.weixin.qq.com/s/ZA3CrqvpeSF9cbyJrEWCXw)
+门槛石优点： 防水
+结论：卫生间用门槛石，或者开放式阳台也可以用。屋内为了颜值高可以用瓷砖或者铜扣条
+
+- 踢脚线
+[史上超全的收口细节设计](https://mp.weixin.qq.com/s/M2yW8odLQroOw7-asAThyw)
+
+
+
 
 ----
 
 # 定制
+- 定制柜
+[打了10万块钱的柜子，我轮流掉进了50个坑](https://mp.weixin.qq.com/s/u8wxMmBooxTpe6BhgGq6JQ)
+
+- [我掉进定制家具的100个坑，总结出了10组救命数字](https://mp.weixin.qq.com/s/2cqxLUDALNfKl_tvqnKQQQ)
+
 ----
 
-# 水电
+# 水电
 
 - [花小钱也能解决装修中的遗憾：谈谈各种家里所需的转接头](https://post.smzdm.com/p/27618/)
 ----
 
-# 开关
+# 开关
 - 厨房高柜是否考虑16A插座，以及小厨电插座要充裕  
 - 电动窗帘 插座
 https://post.smzdm.com/p/667269/?send_by=3077416576
 关于开关的选择，站内有很多牛逼的评测贴，国产系正泰、公牛、鸿雁等，欧美系西门子、施耐德、ABB，经过对比分析认准了施耐德，于是采购多为丰尚和绎尚这两款，断路器全部带漏电保护。这部分的开关插座全部购自京东自营，施耐德分京东旗舰店和京东施耐德自营店，建议自营加入购物车。[施耐德电气（Schneider Electric）开关插座 插座面板 10A五孔插座 丰尚系列 白色 十支装套装](https://re.jd.com/cps/item/2034007.html?cu=true&utm_source=www.linkstars.com&utm_medium=tuiguang&utm_campaign=t_1000089893_156_0_184__058ea90075e8abd7&utm_term=5f5e5219fea74548be453faf790523f5&abt=3)
 
-## 厨房
+## 厨房
 
 ## 书房
 ## 餐厅
