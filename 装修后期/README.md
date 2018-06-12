@@ -42,6 +42,8 @@ notebook: 装修
 按价格品质排序：
 黑胡桃>樱桃木、黄杨木>白橡木>红橡木>白蜡木>榉木>松木，橡胶木
 
+- [还是听叔讲讲木蜡油吧](https://mp.weixin.qq.com/s/Km-bAwH77cpzcc-CwIw39g)
+
 - [【单毅讲装修】实木家具凭啥这么火？木材种类,淘宝店铺推荐](https://mp.weixin.qq.com/s/pkH0Mo3y6JJnqDpEQeoG5w)
 
 ## 沙发：
@@ -141,6 +143,9 @@ notebook: 装修
 ## 水槽
 ## 龙头
 ## 地漏
+- [排水方式](https://m.haohaozhu.com/blank/000044f050000b0k.html?comefrom=inset)
+种草 长条形 隐形排水地漏
+- [最全地漏选购攻略务必收藏](https://post.smzdm.com/p/707931/?send_by=3077416576)
 
 ----
 
