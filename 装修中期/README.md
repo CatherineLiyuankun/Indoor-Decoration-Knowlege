@@ -57,6 +57,8 @@ notebook: 装修
 
 - 地板 [13年经验地板老板，教你30分钟快准狠选地板](https://mp.weixin.qq.com/s/OdGHuIry9sie4ZufAvD0kw)
 
+- [实木还是复合？摆事实讲道理帮你走出误区！](https://mp.weixin.qq.com/s/7VTPHuyf-GiH06OF_wlVwg)
+
 - 门槛石 
 [好好住门槛石话题](https://m.haohaozhu.com/question/30.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=ZFFuWmNMTEM3S3F4TEI3bC9PNmtydz09OjBmZjZlNDBkZTE2MjdlNzNiODU3YTAzMjFhYTNkMzA1)  
 [住范儿门槛石文章](https://mp.weixin.qq.com/s/ZA3CrqvpeSF9cbyJrEWCXw)

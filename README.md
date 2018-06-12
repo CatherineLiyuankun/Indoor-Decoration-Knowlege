@@ -355,6 +355,10 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 
 - [装修喵星人之家 篇十九：装修中的100个零散知识点汇总](https://post.smzdm.com/p/599802/#cl_3)
 
+- [干货 | 装修怎么省，套总如是说](https://mp.weixin.qq.com/s/LOPlLbIkc7fdHoLT6Cffdg)
+
+- [干货 | 装修怎么省，套总如是说（下）](https://mp.weixin.qq.com/s/KN9DopksvAIgFICCeIFFZA)
+
 ## 智能家居解决方案
 - [智能家居系统预留点位](https://www.toutiao.com/i6547534085374345735/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&timestamp=1524495925&app=news_article&utm_source=weixin&isappinstalled=0&iid=25538020858&utm_medium=toutiao_android&wxshare_count=2&pbid=6501810469974787597)
 
@@ -396,8 +400,6 @@ List： 复制这条信息，打开👉手机淘宝👈即可看到【吱音 森
 
 3. [下沉式卫生间](https://m.haohaozhu.com/blank/000070m050000evg.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=QU5iQmlGTWpJVzFqdk5tUWRTRktxUT09OmVhYTRkZTBjM2RlZTI3ZjA2MDVlZmIzYmE0MDc5NTUw)
 
-4. [排水方式](https://m.haohaozhu.com/blank/000044f050000b0k.html?comefrom=inset)
-种草 长条形 隐形排水地漏
 
 ## 收纳
 - [网红洞洞板收纳DIY](https://m.haohaozhu.com/blank/00006a6050001ujb.html?hz_dev=ios&hz_share_plfm=wx&hz_share_uid=SFRCdTZ1OC9Oejdpc0k2ME44U2lrdz09OjMzNWEyNmJlM2U2NjgwZTA1YWJmOTU2MDFhYWI5MzMz) 
